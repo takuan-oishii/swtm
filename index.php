@@ -11,5 +11,8 @@
   <br />
   <input type="submit" value="アップロード" />
 </form>
+Jpegしかアップロードできません。悪しからず。<br/>
+
+<h1><a href="random.php" >ランダム表示</a></h1>
 </body>
 </html>
